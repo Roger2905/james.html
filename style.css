@@ -1,5 +1,5 @@
 header{
-    background-color: rgb(255, 255, 251);
+    background-color: rgb(212, 4, 4);
     display: table;
     width: 100%;
 }
@@ -11,7 +11,7 @@ header{
 
 .logo-site img{
     float:left;
-    max-width: 200px;
+    max-width: 100px;
 }
 
 .logo-site h1{
@@ -107,7 +107,7 @@ main p{
 footer {
 	text-align: center;
 	background: url("bg.jpg");
-	padding: 40px 0;
+	padding:01px 0;
 }
 
 footer img{
